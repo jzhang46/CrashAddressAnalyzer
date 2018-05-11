@@ -30,7 +30,7 @@
 		8DD17433181A1A7800C23868 /* CAAAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CAAAppDelegate.h; sourceTree = "<group>"; };
 		8DD17434181A1A7800C23868 /* CAAAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CAAAppDelegate.m; sourceTree = "<group>"; };
 		8DD17437181A1A7800C23868 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainMenu.xib; sourceTree = "<group>"; };
-		8DD1744C181A53A200C23868 /* Aha-Soft-Jewelry-Jeweler.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = "Aha-Soft-Jewelry-Jeweler.icns"; sourceTree = "<group>"; };
+		8DD1744C181A53A200C23868 /* Aha-Soft-Jewelry-Jeweler.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; name = "Aha-Soft-Jewelry-Jeweler.icns"; path = "CrashAddressAnalyzer/Aha-Soft-Jewelry-Jeweler.icns"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -306,6 +306,7 @@
 				8DD1743D181A1A7800C23868 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
